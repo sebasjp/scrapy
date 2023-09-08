@@ -1,0 +1,9 @@
+{
+    "tipo_inmueble": 1.0,
+    "habitaciones": 5.0,
+    "banos": 6.0,
+    "estacionamientos": 3.0,
+    "antiguedad": 30.0,
+    "estrato_social": 6.0,
+    "area": 90
+}
